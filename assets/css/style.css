@@ -8,6 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Replaced class with appropriate HTML tag */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -20,6 +21,7 @@ h1 {
     font-size: 48px;
 }
 
+/* Changed class to id because it is unique */
 h1 #seo {
     color: #d9dcd6;
 }
