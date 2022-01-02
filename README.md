@@ -2,7 +2,12 @@
 
 ## Your Task
 
-I refactored a pre-existing website using semantic HTML.  I made sure that accessibility was taken into consideration, and applied the "Scout Rule".
+I refactored a pre-existing website using semantic HTML. All DIVs were eliminated and replaced with either a proper, semantic HTML tag or SECTION.
+All necessary modifications were also applied to the CSS stylesheet.
+
+I made sure that accessibility was taken into consideration by putting all images into the main HTML file as well as adding ALT tags to all images.  I assigned a more appropriate page title to be shown on the browser tab.
+
+I applied the "Scout Rule" and eliminated unnecessary and/or redundant code so that the CSS stylesheet is now easier to understand and is more eloquently structured.  Elements were moved to match their actual positioning on the page as much as was possible.
 
 ## User Story
 
