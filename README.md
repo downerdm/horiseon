@@ -1,21 +1,15 @@
-# 01 HTML, CSS, and Git: Code Refactor
+# Horiseon Website Code Refactor
 
-## Your Task
+## The Task
+
+A marketing agency wanted a codebase that follows accessibility standards so that their site will be optimized for search engines.  I included a list of the original "Acceptance Criteria" below.
 
 I refactored a pre-existing website using semantic HTML. All DIVs were eliminated and replaced with either a proper, semantic HTML tag or SECTION.
 All necessary modifications were also applied to the CSS stylesheet.
 
 I made sure that accessibility was taken into consideration by putting all images into the main HTML file as well as adding ALT tags to all images.  I assigned a more appropriate page title to be shown on the browser tab.
 
-I applied the "Scout Rule" and eliminated unnecessary and/or redundant code so that the CSS stylesheet is now easier to understand and is more eloquently structured.  Elements were moved to match their actual positioning on the page as much as was possible.
-
-## User Story
-
-```
-AS A marketing agency
-I WANT a codebase that follows accessibility standards
-SO THAT our own site is optimized for search engines
-```
+I applied the "Scout Rule" and eliminated unnecessary and/or redundant code so that the CSS stylesheet is now easier to understand and is more eloquently structured.  Elements were moved to match their actual positioning on the page as much as was possible.  Unused code was removed.
 
 ## Acceptance Criteria
 
@@ -33,21 +27,7 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
-## Mock-Up
+## Live URL and Screenshot
 
-The following image shows the web application's appearance and functionality:
-
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./Assets/01-html-css-git-homework-demo.png)
-
-> **Note**: This layout is designed for desktop viewing, so you may notice that some of the elements don't look like the mock-up at a resolution smaller than 768px. Eventually you'll learn how to make elements responsive so that your web application is optimized for any screen size.
-
-## Review
-
-You are required to submit the following for review:
-
-* The URL of the deployed application.
-
-* The URL of the GitHub repository, with a unique name and a README that describes the project.
-
----
-© 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+Here is a link to the live URL for the refactored page: https://downerdm.github.io/horiseon-code-refactor/
+![Screen Shot 2022-01-02 at 7 46 02 PM (2)](https://user-images.githubusercontent.com/94584327/147893577-00fb634a-6ef6-48fb-a93e-285dd18aa0f6.png)
